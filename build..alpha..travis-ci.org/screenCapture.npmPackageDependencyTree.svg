@@ -1,0 +1,83 @@
+<svg height="1278" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1278" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">22 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ replpad@0.14.0 </tspan>
+<tspan x="10" y="90">  ├── anchor-markdown-header@0.3.8 </tspan>
+<tspan x="10" y="106">  ├── ansicolors@0.2.1 </tspan>
+<tspan x="10" y="122">  ├── ansistyles@0.1.3 </tspan>
+<tspan x="10" y="138">  ├─┬ cardinal@0.4.4 </tspan>
+<tspan x="10" y="154">  │ └── redeyed@0.4.4 </tspan>
+<tspan x="10" y="170">  ├─┬ chokidar@0.12.6 </tspan>
+<tspan x="10" y="186">  │ └── async-each@0.1.6 </tspan>
+<tspan x="10" y="202">  ├─┬ escodegen@0.0.15 </tspan>
+<tspan x="10" y="218">  │ └── source-map@0.5.6 </tspan>
+<tspan x="10" y="234">  ├── esprima@1.0.4 </tspan>
+<tspan x="10" y="250">  ├── find-parent-dir@0.1.0 </tspan>
+<tspan x="10" y="266">  ├─┬ findex@0.2.3 </tspan>
+<tspan x="10" y="282">  │ ├── JSONSelect@0.4.0 </tspan>
+<tspan x="10" y="298">  │ ├── readdirp@0.3.3 </tspan>
+<tspan x="10" y="314">  │ └── unique-concat@0.1.3 </tspan>
+<tspan x="10" y="330">  ├── function-comment@0.2.2 </tspan>
+<tspan x="10" y="346">  ├── hasinternet@0.0.0 </tspan>
+<tspan x="10" y="362">  ├─┬ hermit@0.2.2 </tspan>
+<tspan x="10" y="378">  │ └── sax@0.5.8 </tspan>
+<tspan x="10" y="394">  ├── marked@0.2.10 </tspan>
+<tspan x="10" y="410">  ├── mkdirp@0.3.5 </tspan>
+<tspan x="10" y="426">  ├─┬ mothership@0.3.0 </tspan>
+<tspan x="10" y="442">  │ └── find-parent-dir@0.3.0 </tspan>
+<tspan x="10" y="458">  ├─┬ msee@0.1.2 </tspan>
+<tspan x="10" y="474">  │ ├─┬ cardinal@0.5.0 </tspan>
+<tspan x="10" y="490">  │ │ └─┬ redeyed@0.5.0 </tspan>
+<tspan x="10" y="506">  │ │   └── esprima-fb@12001.1.0-dev-harmony-fb </tspan>
+<tspan x="10" y="522">  │ ├─┬ chalk@0.4.0 </tspan>
+<tspan x="10" y="538">  │ │ ├── ansi-styles@1.0.0 </tspan>
+<tspan x="10" y="554">  │ │ ├── has-color@0.1.7 </tspan>
+<tspan x="10" y="570">  │ │ └── strip-ansi@0.1.1 </tspan>
+<tspan x="10" y="586">  │ ├── marked@0.3.6 </tspan>
+<tspan x="10" y="602">  │ ├─┬ nopt@2.1.2 </tspan>
+<tspan x="10" y="618">  │ │ └── abbrev@1.1.0 </tspan>
+<tspan x="10" y="634">  │ └─┬ xtend@2.1.2 </tspan>
+<tspan x="10" y="650">  │   └── object-keys@0.4.0 </tspan>
+<tspan x="10" y="666">  ├── opener@1.3.0 </tspan>
+<tspan x="10" y="682">  ├─┬ readdirp@1.3.0 </tspan>
+<tspan x="10" y="698">  │ ├── graceful-fs@2.0.3 </tspan>
+<tspan x="10" y="714">  │ ├─┬ minimatch@0.2.14 </tspan>
+<tspan x="10" y="730">  │ │ ├── lru-cache@2.7.3 </tspan>
+<tspan x="10" y="746">  │ │ └── sigmund@1.0.1 </tspan>
+<tspan x="10" y="762">  │ └─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="778">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="794">  │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="810">  │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="826">  │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="842">  ├─┬ readline-matchtoken@0.1.0 </tspan>
+<tspan x="10" y="858">  │ └── match-token@0.1.1 </tspan>
+<tspan x="10" y="874">  ├─┬ readline-vim@0.3.2 </tspan>
+<tspan x="10" y="890">  │ ├── parse-key@0.2.1 </tspan>
+<tspan x="10" y="906">  │ └── stringify-key@0.1.2 </tspan>
+<tspan x="10" y="922">  ├─┬ request@2.12.0 </tspan>
+<tspan x="10" y="938">  │ ├─┬ form-data@0.0.3 </tspan>
+<tspan x="10" y="954">  │ │ ├── async@0.1.9 </tspan>
+<tspan x="10" y="970">  │ │ └─┬ combined-stream@0.0.3 </tspan>
+<tspan x="10" y="986">  │ │   └── delayed-stream@0.0.5 </tspan>
+<tspan x="10" y="1002">  │ └── mime@1.2.7 </tspan>
+<tspan x="10" y="1018">  ├── require-like@0.1.2 </tspan>
+<tspan x="10" y="1034">  ├─┬ scriptie-talkie@0.4.7 </tspan>
+<tspan x="10" y="1050">  │ ├── clone@0.1.19 </tspan>
+<tspan x="10" y="1066">  │ ├── deep-is@0.1.3 </tspan>
+<tspan x="10" y="1082">  │ ├─┬ difflet@0.2.6 </tspan>
+<tspan x="10" y="1098">  │ │ ├── charm@0.1.2 </tspan>
+<tspan x="10" y="1114">  │ │ └── traverse@0.6.6 </tspan>
+<tspan x="10" y="1130">  │ ├── hypernal@0.2.7 </tspan>
+<tspan x="10" y="1146">  │ ├── snippetify@0.2.1 </tspan>
+<tspan x="10" y="1162">  │ └── through@2.3.8 </tspan>
+<tspan x="10" y="1178">  └─┬ xtend@2.0.6 </tspan>
+<tspan x="10" y="1194">    ├── is-object@0.1.2 </tspan>
+<tspan x="10" y="1210">    └─┬ object-keys@0.2.0 </tspan>
+<tspan x="10" y="1226">      ├── foreach@2.0.5 </tspan>
+<tspan x="10" y="1242">      ├── indexof@0.0.1 </tspan>
+<tspan x="10" y="1258">      └── is@0.2.7</tspan>
+</text>
+</svg>
